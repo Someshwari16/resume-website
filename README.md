@@ -11,7 +11,7 @@ CSS: For styling and creating the visual layout.
 
 
 
-**Live Website** 
+**Live Website**
 
 you can view the website at [someshwari resume](https://someshwari16.github.io/resume-website/)    
 
@@ -19,4 +19,3 @@ you can view the website at [someshwari resume](https://someshwari16.github.io/r
 
 
 
-![website screenshort](https://ibb.co/Rz4S1kX)
