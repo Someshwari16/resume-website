@@ -19,4 +19,4 @@ you can view the website at [someshwari resume](https://someshwari16.github.io/r
 
 
 
-![website screenshort](https://drive.google.com/file/d/1XeispyJ2yiGN1HcktUQbJ9OEcCP0QKl6/view?usp=sharing)
+![website screenshort](https://ibb.co/Rz4S1kX)
